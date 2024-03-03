@@ -7,6 +7,11 @@ import book from './img/book.png'
 import book2 from './img/book2.png'
 import book3 from './img/book3.png'
 import book4 from './img/book4.png'
+import metro from './img/metro.png'
+import bestiary from './img/bestiary.png'
+import bestiary2 from './img/bestiary2.png'
+import bloodborne from './img/bloodborne.png'
+import bloodborne2 from './img/bloodborne2.png'
 
 function App() {
   return (
@@ -42,7 +47,27 @@ function App() {
             <PizzaBlock 
             title = "Бестиарий Ведьмак"
             price = {3500}
-            src = {book4}
+            src = {bestiary}
+            />
+            <PizzaBlock 
+            title = "Бестиарий Ведьмак"
+            price = {3500}
+            src = {bestiary2}
+            />
+            <PizzaBlock 
+            title = "Дневник Артёма"
+            price = {3500}
+            src = {metro}
+            />
+            <PizzaBlock 
+            title = "Бледокровная Охота"
+            price = {3500}
+            src = {bloodborne}
+            />
+            <PizzaBlock 
+            title = "Бледокровная Охота"
+            price = {2500}
+            src = {bloodborne2}
             />
           </div>
         </div>
