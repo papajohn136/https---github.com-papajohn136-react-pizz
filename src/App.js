@@ -39,6 +39,11 @@ function App() {
             price = {3500}
             src = {book4}
             />
+            <PizzaBlock 
+            title = "Бестиарий Ведьмак"
+            price = {3500}
+            src = {book4}
+            />
           </div>
         </div>
       </div>
