@@ -1,0 +1,168 @@
+
+
+[
+    {
+      "id": 0,
+      "imageUrl": "https://4.downloader.disk.yandex.ru/preview/3a45dd46a3501fa6f8cb2d6a765351a1d64895a36f1860cf773a82764443ec3a/inf/74jQ_TOOtsWNW-6JSiln0QVHQUKtnNzdFLptie1axcForT5EgNf_TkDfhx0ejFDsHSJDKKvm5Is1VIRg3S0aFg%3D%3D?uid=752938260&filename=InShot_20240303_190920692.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Властелин Колец Трилогия #1",
+      "types": [
+        
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 5000,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://3.downloader.disk.yandex.ru/preview/8d8121f5e20fba755e72a952d02a6770f936a402f708b8384c8919f511b32a56/inf/qnDiTaAWDlmGWWw7rBD2e2cYu0YYzjjR9pNJpZYbhcsBn2hT5R_ceYMWdTQ29s_MjKEJTw2PeFqUe3PtcTXMsA%3D%3D?uid=752938260&filename=InShot_20240303_201015869.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Властелин Колец Трилогия #2",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        40
+      ],
+      "price": 6000,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://3.downloader.disk.yandex.ru/preview/6dfdabb88631248a4ab8b8fc8efee1b1a0f7e3b0a09f1dcfebc60e77a01e1e55/inf/EBrYjk-u0WMiyd4RDoATeFGXnZy9fgiKX98O6vmARk0_2KV6tCr8_YkVTsu7s2akiSEE0Wr0qJAPmqFTv18YsQ%3D%3D?uid=752938260&filename=InShot_20240303_201148053%20%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Властелин Колец Трилогия #3",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        40
+      ],
+      "price": 5000,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://3.downloader.disk.yandex.ru/preview/61ad71e2d1712c37f4e73c41a9fcdfe290ec98d952fb5d99b2d339217f7360fd/inf/ffw1MNK2hoMhRCWSPHkqVnRmrPnQQErppX-AfGjy2du7O4jMcpy3y1L6pwokz3xrvqRYSuVkHJvodBmR_xU-YA%3D%3D?uid=752938260&filename=InShot_20240306_160246976.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Властелин Колец Трилогия #4",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 5000,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://1.downloader.disk.yandex.ru/preview/9da4af1372d3f0b478fad71b2f1a2a76451eca38d9418c2333b6c3c10486c6b4/inf/m6IRaeKEMpPC59T6OT5xuYzJp4WvLJLi6oDqwkM5lr9O0uoBYpUXVzam6pSm7bbIGYl5TqR1mz6UMX2mAYYM9w%3D%3D?uid=752938260&filename=InShot_20240122_180032745.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Бестиарий Ведьмак #1",
+      "types": [
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 3500,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://2.downloader.disk.yandex.ru/preview/81927d0b1dfa797bf95fe1243f7f2241a745bd6c3577929480e55f816bc0a40e/inf/u3CZDDQ7BhATaFJzJKXuK8AgtkWPF0pQX4xrr5Qmz6MBUTwd_PEvyegkhahhTryEdlI3C8w21Q4DN0_YViPeTw%3D%3D?uid=752938260&filename=InShot_20240303_230916749%20%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Бестиарий Ведьмак #2",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 3500,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://1.downloader.disk.yandex.ru/preview/edee0b54a8f4e89a6b598b91c73bfdcf7acf1374e86eaa2424eb74619cddaeef/inf/ZWOpbA1ecNxReAZlEDZe9gVk_UKwZ_zP8r2mHuGRNEHEz8XdStBO3j8ddzSCNEg42WvnspyNirV2tedWPeO1Cw%3D%3D?uid=752938260&filename=InShot_20240303_231436908%20%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Бестиарий Ведьмак #3",
+      "types": [
+        0
+      ],
+      "sizes": [
+        30,
+        40
+      ],
+      "price": 3500,
+      "category": 2,
+      "rating": 2
+    },
+   
+    {
+      "id": 7,
+      "imageUrl": "https://3.downloader.disk.yandex.ru/preview/ef0b7a75d41826d9066267dd697f57855a7a68d8e7e8d5fcbec1a239e74a4225/inf/tg8EacsJBn6uo61RwvrS6-w7BrrVEpWNcCPb37uLUpvAUAGZgBqYQOd-QakxfQ_wPJfel-cRV0P8Ufrih_vCIQ%3D%3D?uid=752938260&filename=InShot_20240303_230651604%20%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Бледокровная Охота #1",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 3500,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://2.downloader.disk.yandex.ru/preview/b312c1922fecb4e6cbc3b7200ad57a565180c0b4dac784b31f67cddfeebcc0c7/inf/UZp5YrTEc6DdJvEDWaBaduQNruC_8gSV4ktz-j5ym6Ex82_93G-0zqv07oO97_Q2aoDlKdIwWFn1jxg93V1OkQ%3D%3D?uid=752938260&filename=InShot_20240303_231540922%20%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Бледокровная Охота #2",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 2500,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://1.downloader.disk.yandex.ru/preview/b29be909120f93eefbef5a49593eafb8a35fa6e949ac24fe685fe027a5bfdfaa/inf/9DpzbqL3N4a3HBRX5bpckrobXlRv7WoszBQ1TPxvSX6CKKfO9wEvUTRDE1nKTyg6gu0Rl1kmVmURteus0P-84w%3D%3D?uid=752938260&filename=InShot_20240303_230817225.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=752938260&tknv=v2&size=1090x917",
+      "title": "Дневник Артёма",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "price": 3500,
+      "category": 5,
+      "rating": 7
+    }
+  ]

@@ -3,15 +3,8 @@ import Categories from './components/Categories';
 import Header from './components/Header';
 import PizzaBlock from './components/PizzaBlock';
 import Sort from './components/Sort';
-import book from './img/book.png'
-import book2 from './img/book2.png'
-import book3 from './img/book3.png'
-import book4 from './img/book4.png'
-import metro from './img/metro.png'
-import bestiary from './img/bestiary.png'
-import bestiary2 from './img/bestiary2.png'
-import bloodborne from './img/bloodborne.png'
-import bloodborne2 from './img/bloodborne2.png'
+
+import books from './assets/books.json'
 
 function App() {
   return (
@@ -25,50 +18,12 @@ function App() {
           </div>
           <h2 className ="content__title">Все книги</h2>
           <div className ="content__items">
-            <PizzaBlock 
-            title = "Властелин Колец Трилогия"
-            price = {5000}
-            src = {book}
-            />
-            <PizzaBlock 
-            title = "Властелин Колец Трилогия"
-            price = {6000}
-            src = {book2}
-            />
-            <PizzaBlock 
-            title = "Властелин Колец Трилогия"
-            price = {5000}
-            src = {book3}/>
-            <PizzaBlock 
-            title = "Бестиарий Ведьмак"
-            price = {3500}
-            src = {book4}
-            />
-            <PizzaBlock 
-            title = "Бестиарий Ведьмак"
-            price = {3500}
-            src = {bestiary}
-            />
-            <PizzaBlock 
-            title = "Бестиарий Ведьмак"
-            price = {3500}
-            src = {bestiary2}
-            />
-            <PizzaBlock 
-            title = "Дневник Артёма"
-            price = {3500}
-            src = {metro}
-            />
-            <PizzaBlock 
-            title = "Бледокровная Охота"
-            price = {3500}
-            src = {bloodborne}
-            />
-            <PizzaBlock 
-            title = "Бледокровная Охота"
-            price = {2500}
-            src = {bloodborne2}
-            />
+
+            {books.map( (obj) => (
+              <PizzaBlock {...obj}
+              />
+            ))}
+           
           </div>
         </div>
       </div>
