@@ -6,6 +6,7 @@ function Categories() {
 
   const onClickAddButton = (index) => { setActiveIndex(index)}
 
+
   const categories = [
     'Все',
     'Властелин колец',
@@ -18,7 +19,10 @@ function Categories() {
     <div className="categories">
       <ul>
 
-        {categories.map((value, i) => <li  onClick={() => onClickAddButton(i)} className={activeIndex === i ? 'active' : ''}>{value}</li>)}
+        {categories.map((value, i) => 
+        <li  
+        key={i}
+        onClick={() => onClickAddButton(i)} className={activeIndex === i ? 'active' : ''}>{value}</li>)}
       
       </ul>
     </div>
